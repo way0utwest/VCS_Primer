@@ -11,6 +11,7 @@ CREATE TABLE [dbo].[Product](
 	[ProductCategory] [varchar](100) NULL,
 	[ProductSubCategory] [varchar](100) NULL,
 	[UnitPrice] [numeric](10, 2) NULL,
+	BaseStock smallint
  CONSTRAINT [ProductPK] PRIMARY KEY CLUSTERED 
 (
 	[ProductID] ASC
