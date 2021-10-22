@@ -1,4 +1,4 @@
 create procedure GetTwo
 as 
-select 2 "Two"
+select 2 as Two
 go
