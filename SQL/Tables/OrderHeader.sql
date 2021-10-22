@@ -13,6 +13,7 @@ CREATE TABLE [dbo].[OrderHeader](
 	[OrderUpdatedDate] [datetime] NULL,
 	[OrderProcessDate] [datetime] NULL,
 	[OrderCompleteDate] [datetime] NULL
+	, Status tinyint
 ) ON [PRIMARY]
 GO
 
