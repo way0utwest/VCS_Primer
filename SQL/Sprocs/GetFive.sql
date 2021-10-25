@@ -1,4 +1,4 @@
-create procedure GetFive
-as 
-select 5 as Four
-go
+CREATE PROCEDURE GetFive
+AS
+SELECT 5 AS Five;
+GO
