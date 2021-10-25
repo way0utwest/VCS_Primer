@@ -8,4 +8,6 @@ A sample respoitory with SQL code for helping DBAs get started with Git.
 
 ## Troubleshooting
 
-Post on #SQLHelp on Twitter
+Post on #SQLHelp on Twitter.
+
+That's the best place to get help for a VCS.
