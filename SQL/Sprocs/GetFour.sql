@@ -1,4 +1,4 @@
-create procedure GetThree
-as 
-select 4 as Four
+create procedure GetFour
+as
+select 4 as 4
 go
