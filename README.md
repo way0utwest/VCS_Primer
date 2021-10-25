@@ -8,4 +8,4 @@ A sample respoitory with SQL code for helping DBAs get started with Git.
 
 ## Troubleshooting
 
-Post on #SQLHelp
+Post on #SQLHelp on Twitter
