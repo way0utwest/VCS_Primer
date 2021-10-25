@@ -1,4 +1,4 @@
 create procedure GetThree
 as 
-select 3
+select 3 as Three
 go
