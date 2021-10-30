@@ -1,4 +1,4 @@
-CREATE PROCEDURE GetSevent
+CREATE PROCEDURE GetSeven
 /*
 This proc is used to return a scalar value of 6
 */
