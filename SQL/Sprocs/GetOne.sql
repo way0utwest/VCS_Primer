@@ -1,4 +1,4 @@
 create procedure GetOne
 as 
-select 3.14159 as One
+select 6.02e+23 as One
 go
