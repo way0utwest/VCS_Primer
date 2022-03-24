@@ -3,5 +3,5 @@ CREATE PROCEDURE GetEight
 This proc is used to return a scalar value of 8
 */
 AS
-SELECT 6.022e+23 AS Eight;
+SELECT 3.1415926535 AS Pi;
 GO
