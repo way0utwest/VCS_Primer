@@ -5,8 +5,3 @@ This proc is used to return a scalar value of 8
 AS
 SELECT 8 AS Eight;
 GO
-/*
-111111111111111111111111111111111
-2222222222222222222222222222
-
-*/
