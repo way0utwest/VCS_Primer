@@ -3,5 +3,5 @@ CREATE PROCEDURE GetEight
 This proc is used to return a scalar value of 8
 */
 AS
-SELECT 8 AS Eight;
+SELECT 8 AS 8;
 GO
