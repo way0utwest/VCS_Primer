@@ -13,4 +13,4 @@ Post on #SQLHelp on Twitter.
 That's the best place to get help for a VCS.
 
 ## Techorama Demo
-added northwind to track db changes
+added northwind to track db changes for a demo
