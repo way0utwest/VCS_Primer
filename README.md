@@ -17,3 +17,6 @@ added northwind to track db changes for a demo
 
 ## SQL Saturday Orlando 2021 Demo
 new demo code for this event
+
+## SQL Saturday Denver 2022
+Back live
