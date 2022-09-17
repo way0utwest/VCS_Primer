@@ -1,0 +1,1 @@
+select 'DenverWillWin' as FingersCrossed
